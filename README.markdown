@@ -39,6 +39,14 @@ I've uploaded the documentation to my website, if you just want to view the docu
 
 ### Dependencies ###
 
+### In case you are using Python 2.7.12 ###
+Before you can install matplotlib, you need to install this dependencies first.
+
+```
+sudo apt -y install libfreetype6-dev
+sudo apt -y install libxft-dev
+```
+
 #### Python2 ####
 
 ```
